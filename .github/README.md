@@ -1,5 +1,3 @@
-<p align="center">
-  <a href="https://imgur.com/golden-gate-bridge-on-foggy-day-62ramb5">
-    <img src="/.assets/banner.jpg" alt="Banner">
-  </a>
-</p>
+<div align="center">
+<a href="#"><img src="/.assets/banner.png"></a>
+</div>
