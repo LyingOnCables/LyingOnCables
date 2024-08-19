@@ -1,3 +1,3 @@
 <div align="center">
-<a href="#"><img src="/.assets/banner.png"></a>
+<a href="#"><img src="/.assets/banner.jpg"></a>
 </div>
