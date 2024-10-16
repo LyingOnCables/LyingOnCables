@@ -1,3 +1,5 @@
+<img src="/.assets/banner.jpg" alt="banner">
+<br>
 <img src="/.assets/snake.svg" alt="Snake animation" />
 
 ###
