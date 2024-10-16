@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LyingOnCables/LyingOnCables/output/snake.svg" alt="Snake animation" />
+<img src="/.assets/snake.svg" alt="Snake animation" />
 
 ###
 
