@@ -1,6 +1,6 @@
 ![Banner](https://github.com/LyingOnCables/LyingOnCables/blob/main/.assets/banner.jpg)
 
-![Snake animation](https://github.com/LyingOnCables/LyinOnCables/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/LyingOnCables/LyingOnCables/blob/output/github-contribution-grid-snake-dark.svgs)
 
 <div align="center">
 <table>
