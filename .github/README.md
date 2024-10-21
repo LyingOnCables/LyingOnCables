@@ -17,8 +17,7 @@
 <div align="center">
 <table>
 <tr>
-<td><a href="#--------"><img height="274px" align="center" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LyingOnCables&radius=16&area=true&order=5&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/></a></td>
-<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyingOnCables&include_all_commits=true&count_private=true&layout=compact&line_height=21&border_radius=5&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/></a></td>
+<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyingOnCables&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&layout=compact&line_height=21&border_radius=5&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/></a></td>
 </tr>
 </table>
 </div>
